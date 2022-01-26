@@ -1,0 +1,21 @@
+---
+description: LaN
+cover: ../.gitbook/assets/FJKdDYXXMAEtz83.jpg
+coverY: 421.16857899382177
+---
+
+# ✨ The Model
+
+The Blue Terra model for scalable NFT leases employs a freehold lease structure, initially held by a single holding company, governing 5,000 perpetual leases. A freehold is simply an ownership of an estate in land, rather than the land itself. As a result, this freehold is a convenient legal vehicle through which we can construct 5,000 perpetual leases that correspond to 5,000 plots of land.&#x20;
+
+This way, our freehold is held by a Bahamian company that acts as the central hub for these leases: leading to numerous key advantages. For one, since our freehold is initialized by a Bahamian company, our NFTs correspond to native property: the restrictions that are normally present for non-residents, including key tax policy differences, are no longer applicable for Blue Terrans. As a result, our NFT holders do not have to pay taxes if they do not develop on their land, and the tax liability for the whole property is beset on the holding company. Another key advantage lies in tradability.&#x20;
+
+A perpetual lease is simply a lease that is held in perpetuity, often inscribed in an auto-renewal scheme. Since our holders will be trading NFTs which entitle holders to activate these perpetual leases through KYC, they will not be subject to the long waiting times and high constraints (e.g., VAT, re-surveyal, etc.) that may be present in other models.&#x20;
+
+Trading on a secondary marketplace does not represent an involved transfer-of-ownership process, and can be done seamlessly as with any other NFT. We will be creating a Homeowner’s Portal and will be partnering with a reputable KYC firm to provide cheap and convenient KYC for our holders. Going through this KYC will legally validate your lease, and since these leases are not activated a priori they will not trigger the normal logistic overhead present in traditional models.
+
+In addition to the taxation problem, deeds also tend to be beleaguered by various other regulations. For example, most land needs to be resurveyed before sale. The Bahamas is no exception, and re-surveyal is actually required by law. This presents the additional challenge of an NFT seller having to resurvey their land, which can take up to several weeks and thousands of dollars, every time they wish to trade. As frustrating as this congestion might be for an individual owner, we posit that these sort of constraints prevent the deed model for working at scale. Although individual transfers-of-ownership may be possible, even these transactions will likely take a long time, be expensive, and be subject to future regulation. We knew we needed a better solution.&#x20;
+
+Another interesting model that has been tried is the use of foreign holding companies, such as US LLCs as intermediaries for ownership. Some companies have adopted this model to facilitate individual transactions on houses, for example, because the structure is very straightforward: a US LLC purchases a foreign real estate asset, and then there is a transfer-of-ownership of shares of that LLC to the intended buyer. While this model works for those individual transactions, we found problems when attempting to translate this solution at scale. For one, this model is also very expensive. Setting up a holding company requires several hundred to thousand dollars, and these companies must be renewed every year. While this might work for a single transaction, this does not work at scale if real estate assets are being traded frequently. This is because each transaction will require the creation of a holding company and its shares transferred to the buyer. The time that it takes to process these legal requirements, days and weeks as opposed to milliseconds, also poses a high opportunity cost.&#x20;
+
+Last, the creation of many holding companies is liable to the same arbitrary legal jurisprudence of whichever country is being used to host these companies as with deeds. It is difficult to argue that the intended usage for LLCs was to act as the intermediary layer in the transfer of real assets on blockchain, and we are cautious of depending on a strategy which may be particularly liable to new regulation.
