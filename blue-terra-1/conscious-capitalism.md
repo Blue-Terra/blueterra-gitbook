@@ -1,5 +1,5 @@
 ---
-description: A New Era Of Change
+description: A New Era Of Social Responsibility
 cover: ../.gitbook/assets/Long Island  (1).jpeg
 coverY: 0
 ---
