@@ -6,7 +6,7 @@ description: Think Zillow But Onchain
 
 ## Value Proposition
 
-“The Terra Bazaar” will be the first land trading NFT marketplace in existence. Our belief is that creating a liquid marketplace for decentralized land sale is a crucial component of DeFi in order to give people the freedom to access all asset classes.&#x20;
+`The Terra Bazaar` will be the first land trading NFT marketplace in existence. Our belief is that creating a liquid marketplace for decentralized land sale is a crucial component of DeFi in order to give people the freedom to access all asset classes.&#x20;
 
 Land is an important real asset and hedge against inflation. Its potential both as a source of passive income and as foundation to build on lend to its stability as an asset. We realized quickly into this project that we would need to create our own platform eventually, as there are key features that uniquely must be implemented to provide necessary information about the land.&#x20;
 
@@ -16,7 +16,7 @@ This marketplace will be a secular platform including its own listing capabiliti
 
 ## Fee Structure
 
-The Terra Bazaar will be taking a 2% exchange fee. 80% of the fee will be used to continuously update iterations of the marketplace as well as handle maintenance of existing attributes. 20% of the market place will be given back to the Blue Terran DAO to furthering the Blue Terran mission and supporting our holders: for example, through contributions for communal development or maintenance.&#x20;
+The Terra Bazaar will be taking a 2% exchange fee. 80% of the fee will be used to continuously update iterations of the marketplace as well as handle maintenance of existing attributes. 20% of the market place will be given back to the Blue Terran `DAO` to furthering the Blue Terran mission and supporting our holders: for example, through contributions for communal development or maintenance.&#x20;
 
 ## Upcoming Partnerships
 

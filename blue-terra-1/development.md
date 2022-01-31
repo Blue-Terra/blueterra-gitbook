@@ -22,4 +22,4 @@ Common practice in The Bahamas is to dig your own well and install your own sept
 
 ## Vision
 
-We envision many of our holders will use their property as a camp site or special place to relax, in which case a tent, hammock, or even basic campground would be fairly inexpensive or free. Though Blue Terra fully respects property rights and the governance capacity of the DAO, the founders of the project envisioned a sustainable and eco-friendly community in harmony with nature.&#x20;
+We envision many of our holders will use their property as a camp site or special place to relax, in which case a tent, hammock, or even basic campground would be fairly inexpensive or free. Though Blue Terra fully respects property rights and the governance capacity of the `DAO`, the founders of the project envisioned a sustainable and eco-friendly community in harmony with nature.&#x20;

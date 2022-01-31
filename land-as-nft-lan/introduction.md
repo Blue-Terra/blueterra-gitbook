@@ -1,5 +1,5 @@
 ---
-description: LaN
+description: Land as NFT
 ---
 
 # 🏖 Introduction

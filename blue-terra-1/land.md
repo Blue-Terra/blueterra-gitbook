@@ -12,14 +12,14 @@ Each Blue Terra NFT will be tied to approximately 1,500 - 2,000 square feet of l
 
 ## Property Selection
 
-After mint, the DAO will vote on the purchase of properties that Blue Terra propose.  Our team is conducting the necessary due diligence and surveyal work for several properties on:
+After mint, the `DAO` will vote on the purchase of properties that Blue Terra propose.  Our team is conducting the necessary due diligence and surveyal work for several properties on:
 
 * &#x20;Andros
 * Abaco
 * Crooked Island
 * San Salvador. &#x20;
 
-The final choices for properties will depend on a number of factors: square acreage, percentage beachfront, proximity to the main islands, current population, preferences of the DAO, and the percent of supply that is sold.&#x20;
+The final choices for properties will depend on a number of factors: square acreage, percentage beachfront, proximity to the main islands, current population, preferences of the `DAO`, and the percent of supply that is sold.&#x20;
 
 ## Risks & Conditions
 
