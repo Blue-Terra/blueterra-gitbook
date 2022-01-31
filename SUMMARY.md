@@ -18,7 +18,8 @@
 
 ## Homeowner's Association and DAO
 
-* [🏛 Homeowner's Association](homeowners-association-and-dao/homeowners-association.md)
+* [🏛 Homeowner's Association](homeowners-association-and-dao/homeowners-association/README.md)
+  * [Page 1](homeowners-association-and-dao/homeowners-association/page-1.md)
 * [🌊 DAO](homeowners-association-and-dao/dao/README.md)
   * [Proposal 1: Example](homeowners-association-and-dao/dao/proposal-1-example.md)
 
