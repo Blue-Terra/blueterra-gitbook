@@ -36,7 +36,7 @@ The `HOA` would also be responsible for creating monthly community updates for h
 
 #### Resolutions
 
-
+The `HOA` can on majority vote of the Board of Directors, create Resolutions&#x20;
 
 #### Property Taxes
 

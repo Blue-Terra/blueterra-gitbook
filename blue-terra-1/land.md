@@ -17,7 +17,8 @@ After mint, the `DAO` will vote on the purchase of properties that Blue Terra pr
 * &#x20;Andros
 * Abaco
 * Crooked Island
-* San Salvador. &#x20;
+* San Salvador
+* Eleuthera
 
 The final choices for properties will depend on a number of factors: square acreage, percentage beachfront, proximity to the main islands, current population, preferences of the `DAO`, and the percent of supply that is sold.&#x20;
 
