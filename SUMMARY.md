@@ -19,8 +19,8 @@
 ## Homeowner's Association and DAO
 
 * [🏛 Homeowner's Association](homeowners-association-and-dao/homeowners-association.md)
-* [🌊 DAO](homeowners-association-and-dao/dao.md)
-* [👩⚖ Governance](homeowners-association-and-dao/governance.md)
+* [🌊 DAO](homeowners-association-and-dao/dao/README.md)
+  * [Proposal 1: Example](homeowners-association-and-dao/dao/proposal-1-example.md)
 
 ## Blue Terra Foundation Grant Program
 
