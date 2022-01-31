@@ -1,5 +1,5 @@
 ---
-description: The Hitchhiker's Guide
+description: Democratization Decentralized Stable and Accessible Property Rights.
 cover: .gitbook/assets/1500x500.jpg
 coverY: -113.99999999999999
 ---
@@ -8,8 +8,14 @@ coverY: -113.99999999999999
 
 ## Overview&#x20;
 
-Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We aim to be the first IRL DAO backed by real world assets.&#x20;
+Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We aim to be the first IRL DAO backed by real world assets. The purpose of this gitbook is threefold:
 
-The purpose of this gitbook is to break down key points of the whitepaper into more easily digestible sections.
+1\) To serve as a friendly Hitchhiker's guide to Blue Terra for new community members.
 
-![v0.1.1](.gitbook/assets/Conch\_Walk.gif)
+2\) To serve as a ledgar to record `Proposals` and `Resoltuions` for the [HOA and DAO](broken-reference).
+
+3\) To simplify key sections of whitepaper v0.1.1 into more easily digestable sections
+
+
+
+![](.gitbook/assets/Conch\_Walk.gif)

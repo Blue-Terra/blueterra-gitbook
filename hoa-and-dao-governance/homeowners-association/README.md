@@ -12,13 +12,19 @@ The Blue Terra Home Owners’ Association (`HOA`) will be the group of holders t
 
 ## Membership
 
-To be a member of the `HOA`, holders would need to:
+To be a general member of the `HOA`, holders would need to:
 
 * Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization).
 * Fill out KYC verification.
 * Be elected into the position by either one of the founders or the `DAO`.
 * Be a committed community member.
-* Have experience in community management or relevant fields.
+* Have experience in community management or relevant fields.\\
+
+## Privileges:
+
+Every general member of the HOA,&#x20;
+
+
 
 ## Leadership Structure
 
@@ -28,17 +34,15 @@ The `HOA` members would be a part of an incorporated company under Blue Terra. T
 
 Second, the Directors would be responsible for reporting any complaints or legal issues to the relevant authorities. Third, the Directors would also oversee the way in which community finances are handled.&#x20;
 
-## HOA Responsibilities&#x20;
-
-#### Community Updates
+## Leadership Responsibilities&#x20;
 
 The `HOA` would also be responsible for creating monthly community updates for holders with information on the property, updates on anything revolving around the `DAO`, and resources that can help community members. The election process for our `HOA` will again, be standard. There will be a community vote for the 10 Board of Directors. The positions are one President, one Vice-President, two Secretaries, three Treasurers, and three Community Leaders.&#x20;
 
-#### Resolutions
+### Reviewing Resolutions
 
-The `HOA` can on majority vote of the Board of Directors, create Resolutions&#x20;
+Any member of the `HOA` can create a `Resolution` Upon a simple majority vote&#x20;
 
-#### Property Taxes
+### Property Taxes
 
 Property taxes would be one of the most important jobs of the `HOA`. The Directors would be responsible for keeping a list of the holders developing properties versus those on undeveloped land. The Directors would annually be responsible for collecting the appropriate amount of property taxes from those developing on their plots. The Directors would also be responsible for paying those taxes to the Government of The Bahamas.&#x20;
 
@@ -48,7 +52,7 @@ There will be an `expense sheet`, publicly available to the `DAO`, in which the 
 
 
 
-## Roles and Responsibilities&#x20;
+### Roles and Responsibilities&#x20;
 
 All of these positions are equal in terms of rank and position on the Board of Directors and are better used to focus on responsibilities and primary area of concern.&#x20;
 
@@ -68,7 +72,7 @@ The Treasurers will be responsible for creating expense reports, managing the co
 
 The Community Leaders will be responsible for managing the `DAO` and relaying information from community members to other Directors and the holders. It is our hope with establishing this `HOA`, that we can have a smaller-scale self-governing system in place for holders.&#x20;
 
-## Compensation
+### Compensation
 
 We envision the pay structure of the `HOA` to be simple. Each Director will be paid equally from the publicly available Community wallet. Each Director will be paid 1 SOL weekly, paid bi-weekly for completion of tasks.&#x20;
 
