@@ -16,12 +16,12 @@
 * [✈ Travel](blue-terra-1/travel.md)
 * [🌳 Conscious Capitalism](blue-terra-1/conscious-capitalism.md)
 
-## Homeowner's Association and DAO
+## HOA and DAO Governance
 
-* [🏛 Homeowner's Association](homeowners-association-and-dao/homeowners-association/README.md)
-  * [Page 1](homeowners-association-and-dao/homeowners-association/page-1.md)
-* [🌊 DAO](homeowners-association-and-dao/dao/README.md)
-  * [Proposal 1: Example](homeowners-association-and-dao/dao/proposal-1-example.md)
+* [🏛 Homeowner's Association](hoa-and-dao-governance/homeowners-association/README.md)
+  * [Resolution 1: Example](hoa-and-dao-governance/homeowners-association/resolution-1-example.md)
+* [🌊 DAO](hoa-and-dao-governance/dao/README.md)
+  * [Proposal 1: Example](hoa-and-dao-governance/dao/proposal-1-example.md)
 
 ## Blue Terra Foundation Grant Program
 

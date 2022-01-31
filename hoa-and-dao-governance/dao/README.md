@@ -1,5 +1,5 @@
 ---
-description: The Organization
+description: Articles of Governance
 cover: ../../.gitbook/assets/FH9WfRBXMAkjYrc.jpg
 coverY: -140.60331299040976
 ---
@@ -29,5 +29,7 @@ The inaugural `DAO` post mint will be responsible for the initialization of the 
 The `DAO` will have regular opportunities for members to submit and vote on proposals for the future of the Blue Terra project.&#x20;
 
 We will also be dedicating a significant percentage of exchange fees from our upcoming secondary market back to the `DAO`, to give back to our community members and enable the Blue Terran `DAO` to create new value for our holders: be it through more communal land development, a validator node to stake to, marketing partnerships etc.
+
+
 
 `DAO` proposals should be fully documented in this gitbook under `DAO`. On passing of a proposal it is the responsibility of&#x20;

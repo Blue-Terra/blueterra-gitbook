@@ -1,5 +1,5 @@
 ---
-description: The Constitution
+description: Articles of Governance
 cover: ../../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
 coverY: 0
 ---
