@@ -4,7 +4,7 @@ cover: .gitbook/assets/1500x500.jpg
 coverY: -113.99999999999999
 ---
 
-# Blue Terra
+# 🌊 Blue Terra
 
 ## Overview&#x20;
 

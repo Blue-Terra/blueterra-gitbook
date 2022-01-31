@@ -1,5 +1,5 @@
 ---
-description: All Things Development
+description: Let's Build Something Wonderful
 cover: ../.gitbook/assets/Blackbeards.jpeg
 coverY: 0
 ---

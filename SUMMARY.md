@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Blue Terra](README.md)
+* [🌊 Blue Terra](README.md)
 
 ## Land as NFT (LaN)
 
@@ -20,6 +20,7 @@
 
 * [🏛 Homeowner's Association](homeowners-association-and-dao/homeowners-association.md)
 * [🌊 DAO](homeowners-association-and-dao/dao.md)
+* [👩⚖ Governance](homeowners-association-and-dao/governance.md)
 
 ## Blue Terra Foundation Grant Program
 
