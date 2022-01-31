@@ -24,7 +24,7 @@ To qualify, one will simply need to hold a Blue Terra NFT in their Solana wallet
 
 The inaugural `DAO` post mint will be responsible for the initialization of the `HOA`: including the election of an Interim President and Vice President, as well a temporary Board of Directors.&#x20;
 
-## Proposals
+## DAO Proposals
 
 The `DAO` will have regular opportunities for members to submit and vote on proposals for the future of the Blue Terra project.&#x20;
 
