@@ -1,6 +1,6 @@
 ---
 description: Articles of Governance
-cover: ../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
+cover: ../../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
 coverY: 0
 ---
 
@@ -30,23 +30,23 @@ Second, the Directors would be responsible for reporting any complaints or legal
 
 ## Leadership Responsibilities&#x20;
 
-The `HOA` would also be responsible for creating monthly community updates for holders with information on the property, updates on anything revolving around the `DAO`, and resources that can help community members. The election process for our `HOA` will again, be standard. There will be a community vote for the 10 Board of Directors. The positions are one President, one Vice-President, two Secretaries, three Treasurers, and three Community Leaders.&#x20;
+The election process for our `HOA` will again, be standard. There will be a community vote for the 10 Board of Directors. The positions are one President, one Vice-President, two Secretaries, three Treasurers, and three Community Leaders.&#x20;
+
+### Community Updates&#x20;
+
+The `HOA` would also be responsible for creating monthly community updates for holders with information on the property, updates on anything revolving around the `DAO`, and resources that can help community members.&#x20;
 
 ### Drafting Resolutions
 
-The members of the `HOA` are responsible for drafting and reviewing `Resolutions` from the `Proposals` finalized&#x20;
+The members of the `HOA` are responsible for drafting and reviewing `Resolutions` from the `Proposals` that have been `finalized`. All `resolutions` are managed through this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook) and can be found in this [directory](https://github.com/Blue-Terra/blueterra-governance)**.**&#x20;
 
-
-
-
-
-There must always be a bijective relationship between `Proposals` and `Resolutions` after the \`\` has reviewed
+The HOA.&#x20;
 
 ### Property Taxes
 
 Property taxes would be one of the most important jobs of the `HOA`. The Directors would be responsible for keeping a list of the holders developing properties versus those on undeveloped land. The Directors would annually be responsible for collecting the appropriate amount of property taxes from those developing on their plots. The Directors would also be responsible for paying those taxes to the Government of The Bahamas.&#x20;
 
-#### Documents
+### Documents
 
 There will be an `expense sheet`, publicly available to the `DAO`, in which the Directors would be responsible for making these payments. The Directors will be the only community members that are given access to KYC information, as they will be responsible for disputes amongst community members and also taxes.&#x20;
 
