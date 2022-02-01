@@ -18,7 +18,7 @@ Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We a
 
 &#x20;    b. Blue Terra Decentralized Autonomous Organization (`DAO`)&#x20;
 
-2\) To serve as a ledger to record `Resolutions` from the respective members of the:
+2\) To serve as a living ledger to record `Resolutions` from the respective members of the:
 
 &#x20;    a. Blue Terra Home Owners Association (`HOA`)&#x20;
 
