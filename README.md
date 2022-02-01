@@ -1,5 +1,5 @@
 ---
-description: Democratization Decentralized Stable and Accessible Property Rights.
+description: Democratizing Decentralized Stable and Accessible Property Rights.
 cover: .gitbook/assets/1500x500.jpg
 coverY: -113.99999999999999
 ---
@@ -8,7 +8,7 @@ coverY: -113.99999999999999
 
 ## Overview&#x20;
 
-Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We aim to be the first IRL `DAO` backed by real world assets. The purpose of this gitbook is fourfold:
+Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We aim to be the first IRL `DAO` backed by real world assets. The purpose of this gitbook is fourfold:&#x20;
 
 1\) To serve as a friendly Hitchhiker's Guide to Blue Terra for new community members.
 
