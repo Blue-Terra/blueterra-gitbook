@@ -22,4 +22,6 @@ Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We a
 
 4\) To simplify key sections of whitepaper v0.1.1 into easy to read sections.
 
+The source code to this gitbook can be found in this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook).
+
 ![](.gitbook/assets/Conch\_Walk.gif)
