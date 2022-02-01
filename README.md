@@ -8,13 +8,23 @@ coverY: -113.99999999999999
 
 ## Overview&#x20;
 
-Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We aim to be the first IRL DAO backed by real world assets. The purpose of this gitbook is threefold:
+Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We aim to be the first IRL `DAO` backed by real world assets. The purpose of this gitbook is fourfold:
 
-1\) To serve as a friendly Hitchhiker's guide to Blue Terra for new community members.
+1\) To serve as a friendly Hitchhiker's guide to Blue Terra for new Blue Terra community members.
 
-2\) To serve as a ledgar to record `Proposals` and `Resoltuions` for the [HOA and DAO](broken-reference).
+2\) To serve as a living document to govern the `Articles of Governance` for:
 
-3\) To simplify key sections of whitepaper v0.1.1 into more easily digestable sections
+&#x20;    a. Blue Terra Home Owners Association (`HOA`)&#x20;
+
+&#x20;    b. Blue Terra Decentralized Autonomous Organization (`DAO`)&#x20;
+
+2\) To serve as a ledger to record `Resolutions` from the respective members of the:
+
+&#x20;    a. Blue Terra Home Owners Association (`HOA`)&#x20;
+
+&#x20;    b. Blue Terra Decentralized Autonomous Organization (`DAO`)&#x20;
+
+4\) To simplify key sections of whitepaper v0.1.1 into more easy to read sections
 
 
 
