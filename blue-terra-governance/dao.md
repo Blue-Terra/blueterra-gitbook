@@ -1,10 +1,14 @@
 ---
-description: Articles of Governance
-cover: ../../.gitbook/assets/FH9WfRBXMAkjYrc.jpg
+description: Article of Governance
+cover: ../.gitbook/assets/FH9WfRBXMAkjYrc.jpg
 coverY: -140.60331299040976
 ---
 
 # 🌊 DAO
+
+## Scope
+
+The following is the `Article of Governance` for the Blue Terra `DAO`. This is the Blue Terra `DAO` constitution. The Blue Terra `DAO` is to act in the best interest of the Blue Terra project and in the manner herein specified.&#x20;
 
 ## Overview
 
@@ -41,5 +45,5 @@ Proposals have three stages:
 
 3\) `finalized` - After this given window of time, `DAO` the `proposal` is finalized and the github branch containing the finalized `proposal` is merged into the main branch of the repo.&#x20;
 
-
+After the `proposal` is merged, the gitbook will be updated and the Governance of Blue Terra changes.&#x20;
 

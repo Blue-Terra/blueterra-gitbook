@@ -18,10 +18,8 @@
 
 ## Blue Terra Governance
 
-* [🏛 Homeowner's Association](blue-terra-governance/homeowners-association/README.md)
-  * [Resolution 0: Genesis](blue-terra-governance/homeowners-association/resolution-0-genesis.md)
-* [🌊 DAO](hoa-and-dao-governance/dao/README.md)
-  * [Proposal 0:](blue-terra-governance/dao/proposal-0.md)
+* [🏛 Homeowner's Association](blue-terra-governance/homeowners-association.md)
+* [🌊 DAO](blue-terra-governance/dao.md)
 
 ## Blue Terra Foundation Grant Program
 

@@ -1,10 +1,14 @@
 ---
-description: Articles of Governance
-cover: ../../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
+description: Article of Governance
+cover: ../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
 coverY: 0
 ---
 
 # 🏛 Homeowner's Association
+
+## Scope
+
+The following is the `Article of Governance` for the Blue Terra `HAO`. This is the Blue Terra `HOA` constitution. The Blue Terra `HOA` is to act in the best interest of the Blue Terra project and in the manner herein specified.&#x20;
 
 ## Overview
 
@@ -36,11 +40,11 @@ The election process for our `HOA` will again, be standard. There will be a comm
 
 The `HOA` would also be responsible for creating monthly community updates for holders with information on the property, updates on anything revolving around the `DAO`, and resources that can help community members.&#x20;
 
-### Drafting Resolutions
+### Resolving Proposals
 
-The members of the `HOA` are responsible for drafting and reviewing `Resolutions` from the `Proposals` that have been `finalized`. All `resolutions` are managed through this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook) and can be found in this [directory](https://github.com/Blue-Terra/blueterra-governance)**.**&#x20;
+The members of the `HOA` are responsible for drafting and reviewing `Resolutions` from the `Proposals` that have been `finalized`. All `resolutions` are managed through this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook).
 
-The HOA.&#x20;
+A `Resolution` should be&#x20;
 
 ### Property Taxes
 
