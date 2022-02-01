@@ -31,13 +31,17 @@ The inaugural `DAO` post mint will be responsible for the initialization of the 
 
 ## Proposals
 
-The `DAO` will have regular opportunities for members to submit and vote on `proposals` for the future of the Blue Terra project. All `proposals` are managed through this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook). `Proposals` can be thought of as a set of changes to:
+The `DAO` will have regular opportunities for members to submit and vote on `proposals` for the future of the Blue Terra project. All `proposals` are managed through this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook). Formally, `Proposals` can be thought of as a set of changes to the following gitbook pages:
 
-The `Articles of Governance` for both the `HOA` and `DAO`
+&#x20;1\) `Article of Governance` for the `HOA` .
 
-Consequently, the Blue Terra `DAO` has complete control over `HOA` and proposals are the mechanism by which Blue Terra `HOA` and `DAO` Governance. `Proposals` may only change the contents of `/blue-terra-governance/home-owners-association` and `/blue-terra-governance/dao`.
+2\) `Article of Governance` for the `DAO` .
 
-Proposals have three stages:
+Consequently, the Blue Terra `DAO` has complete control over `HOA` and proposals are the mechanism by which Blue Terra `HOA` and `DAO` Governance.&#x20;
+
+`Proposals` may only change the contents of the `Articles of Governance` gitbook pages.&#x20;
+
+The pipeline for `Proposals` contains three stages:
 
 1\) `compilation` - During this phase members of the `DAO` compile issues into a `proposal`. This `proposal` is compiled into a github branch containing these changes.&#x20;
 
@@ -45,5 +49,5 @@ Proposals have three stages:
 
 3\) `finalized` - After this given window of time, `DAO` the `proposal` is finalized and the github branch containing the finalized `proposal` is merged into the main branch of the repo.&#x20;
 
-After the `proposal` is merged, the gitbook will be updated and the Governance of Blue Terra changes.&#x20;
+After the `proposal` is merged, the gitbook will be updated and the changes to the Governance of Blue Terra changes take immediate effect.&#x20;
 
