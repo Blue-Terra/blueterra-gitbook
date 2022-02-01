@@ -35,7 +35,7 @@ The `DAO` will have regular opportunities for members to submit and vote on `pro
 
 The `Articles of Governance` for both the `HOA` and `DAO`
 
-Consequently, the Blue Terra `DAO` has complete control over `HOA` and proposals are the mechanism by which Blue Terra `HOA` and `DAO` Governance. That is to say that, `DAO` `Proposals` may alter any of the text contained in the following [directory](https://github.com/Blue-Terra/blueterra-gitbook/tree/main/blue-terra-governance/homeowners-association).&#x20;
+Consequently, the Blue Terra `DAO` has complete control over `HOA` and proposals are the mechanism by which Blue Terra `HOA` and `DAO` Governance. `Proposals` may only change the contents of `/blue-terra-governance/home-owners-association` and `/blue-terra-governance/dao`.
 
 Proposals have three stages:
 
