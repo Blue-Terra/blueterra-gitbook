@@ -1,6 +1,6 @@
 ---
 description: Article of Governance
-cover: ../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
+cover: ../../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
 coverY: 0
 ---
 
@@ -40,12 +40,6 @@ The election process for our `HOA` will again, be standard. There will be a comm
 
 The `HOA` would also be responsible for creating monthly community updates for holders with information on the property, updates on anything revolving around the `DAO`, and resources that can help community members.&#x20;
 
-### Resolving Proposals
-
-The members of the `HOA` are responsible for drafting and reviewing `Resolutions` from the `Proposals` that have been `finalized`. All `resolutions` are managed through this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook).
-
-A `Resolution` should be&#x20;
-
 ### Property Taxes
 
 Property taxes would be one of the most important jobs of the `HOA`. The Directors would be responsible for keeping a list of the holders developing properties versus those on undeveloped land. The Directors would annually be responsible for collecting the appropriate amount of property taxes from those developing on their plots. The Directors would also be responsible for paying those taxes to the Government of The Bahamas.&#x20;
@@ -56,27 +50,27 @@ There will be an `expense sheet`, publicly available to the `DAO`, in which the 
 
 
 
-### Roles and Responsibilities&#x20;
+## Roles and Responsibilities&#x20;
 
 All of these positions are equal in terms of rank and position on the Board of Directors and are better used to focus on responsibilities and primary area of concern.&#x20;
 
-#### President and Vice President&#x20;
+### President and Vice President&#x20;
 
 The President and Vice-President will be responsible for communicating serious inquiries with the Founders and providing updates. They will also be responsible for setting up Board of Director meetings.&#x20;
 
-#### Secretaries
+### Secretaries
 
 Secretaries will be responsible for filing all paperwork such as taxes and keeping track of the KYC database, as well as sharing that information with relevant authorities if needed.&#x20;
 
-#### Treasurers
+### Treasurers
 
 The Treasurers will be responsible for creating expense reports, managing the community wallet, and sharing financial information with the Founders and the holders.&#x20;
 
-#### Community Leader
+### Community Leader
 
 The Community Leaders will be responsible for managing the `DAO` and relaying information from community members to other Directors and the holders. It is our hope with establishing this `HOA`, that we can have a smaller-scale self-governing system in place for holders.&#x20;
 
-### Compensation
+## Compensation
 
 We envision the pay structure of the `HOA` to be simple. Each Director will be paid equally from the publicly available Community wallet. Each Director will be paid 1 SOL weekly, paid bi-weekly for completion of tasks.&#x20;
 

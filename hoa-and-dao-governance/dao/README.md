@@ -1,6 +1,6 @@
 ---
 description: Article of Governance
-cover: ../.gitbook/assets/FH9WfRBXMAkjYrc.jpg
+cover: ../../.gitbook/assets/FH9WfRBXMAkjYrc.jpg
 coverY: -140.60331299040976
 ---
 
