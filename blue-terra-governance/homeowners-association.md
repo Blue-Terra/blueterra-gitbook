@@ -1,6 +1,6 @@
 ---
 description: Articles of Governance
-cover: ../../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
+cover: ../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
 coverY: 0
 ---
 
@@ -34,7 +34,13 @@ The `HOA` would also be responsible for creating monthly community updates for h
 
 ### Drafting Resolutions
 
-The members of the `HOA` are responsible for reviewing&#x20;
+The members of the `HOA` are responsible for drafting and reviewing `Resolutions` from the `Proposals` finalized&#x20;
+
+
+
+
+
+There must always be a bijective relationship between `Proposals` and `Resolutions` after the \`\` has reviewed
 
 ### Property Taxes
 
