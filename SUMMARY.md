@@ -18,10 +18,8 @@
 
 ## HOA and DAO Governance
 
-* [🏛 Homeowner's Association](hoa-and-dao-governance/homeowners-association/README.md)
-  * [Resolution 1: Example](hoa-and-dao-governance/homeowners-association/resolution-1-example.md)
-* [🌊 DAO](hoa-and-dao-governance/dao/README.md)
-  * [Proposal 1: Example](hoa-and-dao-governance/dao/proposal-1-example.md)
+* [🏛 Homeowner's Association](hoa-and-dao-governance/homeowners-association.md)
+* [🌊 DAO](hoa-and-dao-governance/dao.md)
 
 ## Blue Terra Foundation Grant Program
 
