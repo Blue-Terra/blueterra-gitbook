@@ -12,11 +12,10 @@ After our mint, we will form a decentralized autonomous organization, or `DAO`, 
 
 ## Membership
 
-To be a member of the `HOA`, holders would need to:
+To be a member of the `DAO`, holders would need to:
 
 * Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization)
-* Be a committed community member
-* Have experience in community management or relevant fields.
+* Verify on Discord with Grape Protocol.
 
 ## Formation
 
@@ -30,7 +29,7 @@ The `DAO` will have regular opportunities for members to submit and vote on prop
 
 We will also be dedicating a significant percentage of exchange fees from our upcoming secondary market back to the `DAO`, to give back to our community members and enable the Blue Terran `DAO` to create new value for our holders: be it through more communal land development, a validator node to stake to, marketing partnerships etc.
 
-## Proposals
+## DAO Proposals
 
 
 

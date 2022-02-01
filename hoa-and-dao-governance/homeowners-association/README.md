@@ -12,19 +12,13 @@ The Blue Terra Home Owners’ Association (`HOA`) will be the group of holders t
 
 ## Membership
 
-To be a general member of the `HOA`, holders would need to:
+To be a member of the `HOA`, holders would need to:
 
 * Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization).
 * Fill out KYC verification.
 * Be elected into the position by either one of the founders or the `DAO`.
 * Be a committed community member.
-* Have experience in community management or relevant fields.\\
-
-## Privileges:
-
-Every general member of the HOA,&#x20;
-
-
+* Have experience in community management or relevant fields.
 
 ## Leadership Structure
 
@@ -38,9 +32,9 @@ Second, the Directors would be responsible for reporting any complaints or legal
 
 The `HOA` would also be responsible for creating monthly community updates for holders with information on the property, updates on anything revolving around the `DAO`, and resources that can help community members. The election process for our `HOA` will again, be standard. There will be a community vote for the 10 Board of Directors. The positions are one President, one Vice-President, two Secretaries, three Treasurers, and three Community Leaders.&#x20;
 
-### Reviewing Resolutions
+### Drafting Resolutions
 
-Any member of the `HOA` can create a `Resolution` Upon a simple majority vote&#x20;
+The members of the `HOA` are responsible for reviewing&#x20;
 
 ### Property Taxes
 
