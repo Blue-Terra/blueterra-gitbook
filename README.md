@@ -10,7 +10,7 @@ coverY: -113.99999999999999
 
 Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We aim to be the first IRL `DAO` backed by real world assets. The purpose of this gitbook is fourfold:
 
-1\) To serve as a friendly Hitchhiker's guide to Blue Terra for new Blue Terra community members.
+1\) To serve as a friendly Hitchhiker's Guide to Blue Terra for new community members.
 
 2\) To serve as a living document to govern the `Articles of Governance` for:
 
