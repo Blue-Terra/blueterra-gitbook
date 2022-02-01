@@ -20,6 +20,6 @@ Blue Terra is the world’s first NFT tied to plots of physical land (LaN). We a
 
 3\)  To serve as a living ledger for `Proposals` from the `DAO`.
 
-4\) To simplify key sections of whitepaper v0.1.1 into more easy to read sections
+4\) To simplify key sections of whitepaper v0.1.1 into easy to read sections.
 
 ![](.gitbook/assets/Conch\_Walk.gif)
