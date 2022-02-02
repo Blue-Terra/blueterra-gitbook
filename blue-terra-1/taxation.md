@@ -12,7 +12,7 @@ Traditional models of large scale transfers of realty have struggled to scale as
 
 ## Disclaimers
 
-In the Blue Terra model, land is anchored to the freehold `lease`, which is created and initially held by a Bahamian company, taxation liability falls on the holder of the `lease`.&#x20;
+In the Blue Terra model, land is anchored to the freehold `lease`, which is created and initially held by a Bahamian company. Therefore the tax liability falls on the holder of the `lease`.&#x20;
 
 Because our model uses `perpetual leases`, the trading of these `leases` do not trigger the typical transfer-of-ownership costs of a deed because the freehold which holds these leases is not changing ownership.&#x20;
 
