@@ -4,7 +4,7 @@
 
 ## Land as NFT (LaN)
 
-* [🏖 The Intro](land-as-nft-lan/the-intro.md)
+* [🏖 The Beginning](land-as-nft-lan/the-beginning.md)
 * [✨ The Model](land-as-nft-lan/the-model.md)
 
 ## Blue Terra
