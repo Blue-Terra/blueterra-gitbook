@@ -2,7 +2,7 @@
 description: Land as NFT
 ---
 
-# 🏖 The Beginning
+# 🏖 The Proposition
 
 ## Definitions
 
@@ -14,15 +14,13 @@ A `lease` is defined as “_A contract between two people where one person with 
 
 A `perpetual lease` is simply a `lease` where the right to renew lies with the leasee, rather than the leasor as in a traditional lease.
 
-## History
+## The Proposition
 
 In The Bahamas, a `lease` is sometimes referred to as a deed of lease. We will henceforth refer to a deed of conveyance as a deed, and a deed of lease as a lease. We originally wanted to use a deed, and deed transfers are how many of the previous real estate transactions on OpenSea have operated through.&#x20;
 
 However, there are a few major problems with deeds for a general framework of land ownership. First, deeds are expensive and subject to heavy taxation. Since deeds are the normal legal instrument through which asset transfer occurs, most centralized governments tax their transfer: typically through a realty transfer fee, as well as any consumption taxes that exist in the land’s legal jurisdiction.&#x20;
 
 In The Bahamas, for example, there is a value-added tax (VAT) of 10%. This means that any time an NFT backed by a Bahamian deed is traded on a secondary market, the transaction is subject to a 10% tax. Similarly, the European Union has a standard VAT of at least 15% and Australia at 10%. On top of the transaction fees that usually go toward the creator (5%) and secondary market (2.5%) at the time of writing, these cumulative fees are prohibitively expensive for deeds to function as a seamless global solution to decentralized land transfer.
-
-## Proposition
 
 Although the possibilities of crypto and, recently, NFTs in the real estate market have been in the public space for some time now, the nascence of the industry has resulted in a relatively limited history.&#x20;
 
