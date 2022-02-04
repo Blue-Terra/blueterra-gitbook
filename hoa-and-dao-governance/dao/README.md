@@ -10,6 +10,8 @@ coverY: -140.60331299040976
 
 The following is the `Article of Governance` for the Blue Terra `DAO`. This is the Blue Terra `DAO` constitution. The Blue Terra `DAO` is to act in the best interest of the Blue Terra project and in the manner herein specified.&#x20;
 
+
+
 ## Overview
 
 After our mint, we will form a decentralized autonomous organization, or `DAO`, to serve as the governing body for our NFT holders and to select the initial officers of our Home Owner’s Association(`HOA`). Members of the `DAO` can colloquially be referred to as Terrans.
@@ -31,7 +33,7 @@ The inaugural `DAO` post mint will be responsible for the initialization of the 
 
 ## Proposals
 
-The `DAO` will have regular opportunities for members to submit and vote on `proposals` for the future of the Blue Terra project. All `proposals` are managed through this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook). Formally, `Proposals` can be thought of as a set of changes to the following gitbook pages:
+The `DAO` will have regular opportunities for members to submit and vote on `Proposals` for the future of the Blue Terra project. All `Proposals` are managed through this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook). Formally, `Proposals` can be thought of as a set of changes to the following gitbook pages:
 
 &#x20;1\) `Article of Governance` for the `HOA` .
 
@@ -43,11 +45,11 @@ Consequently, the Blue Terra `DAO` has complete control over `HOA` and proposals
 
 The pipeline for `Proposals` contains three stages:
 
-1\) `compilation` - During this phase members of the `DAO` compile issues into a `proposal`. This `proposal` is compiled into a github branch containing these changes.&#x20;
+1\) `Compilation` - During this phase members of the `DAO` compile issues into a `Proposal`. This `proposal` is compiled into a github branch containing these changes.&#x20;
 
-2\) `voting` -  Member of the `DAO` are given a window of time to vote of issues in the `proposal`.
+2\) `Voting` -  Member of the `DAO` are given a window of time to vote of issues in the `Proposal`.
 
-3\) `finalized` - After this given window of time, `DAO` the `proposal` is finalized and the github branch containing the finalized `proposal` is merged into the main branch of the repo.&#x20;
+3\) `Finalized` - After this given window of time, `DAO` the `Proposal` is finalized and the github branch containing the finalized `proposal` is merged into the main branch of the repo.&#x20;
 
-After the `proposal` is merged, the gitbook will be updated and the changes to the Governance of Blue Terra changes take immediate effect.&#x20;
+After the `Proposal` is merged, the gitbook will be updated and the changes to the Governance of Blue Terra changes take immediate effect.&#x20;
 

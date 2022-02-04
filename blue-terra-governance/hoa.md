@@ -12,7 +12,7 @@ The following is the `Article of Governance` for the Blue Terra `HAO`. This is t
 
 ## Overview
 
-The Blue Terra Home Owners’ Association (`HOA`) will be the group of holders that will be responsible for the maintenance, fees, and other responsibilities of the property.&#x20;
+The Blue Terra Home Owners’ Association (`HOA`) will be the group of holders that will be responsible for the maintenance, fees, and other responsibilities of the property. After mint, a portion of the funds will be allocated to the initial Board of Directors to establish the Treasury.&#x20;
 
 ## Membership
 
@@ -46,31 +46,31 @@ Property taxes would be one of the most important jobs of the `HOA`. The Directo
 
 ### Documents
 
-There will be an `expense sheet`, publicly available to the `DAO`, in which the Directors would be responsible for making these payments. The Directors will be the only community members that are given access to KYC information, as they will be responsible for disputes amongst community members and also taxes.&#x20;
+There will be an `expense sheet`, publicly available to the `DAO`, in which the Directors would be responsible for making these payments. The `expense sheet` The Directors will be the only community members that are given access to KYC information, as they will be responsible for disputes amongst community members and also taxes.&#x20;
 
 
 
 ## Roles and Responsibilities&#x20;
 
-All of these positions are equal in terms of rank and position on the Board of Directors and are better used to focus on responsibilities and primary area of concern.&#x20;
+All of these positions are equal in terms of rank and position on the Board of Directors and are better used to focus on responsibilities and primary area of concern. Based on their responsibilities we've organized them into four Divisions delineated below:
 
-### President and Vice President&#x20;
+### Executive Division
 
-The President and Vice-President will be responsible for communicating serious inquiries with the Founders and providing updates. They will also be responsible for setting up Board of Director meetings.&#x20;
+The `President` and `Vice-President` will be responsible for communicating serious inquiries with the Founders and providing updates. They will also be responsible for setting up Board of Director meetings.&#x20;
 
-### Secretaries
+### Administrative Division
 
-Secretaries will be responsible for filing all paperwork such as taxes and keeping track of the KYC database, as well as sharing that information with relevant authorities if needed.&#x20;
+`Secretaries` will be responsible for filing all paperwork such as taxes and keeping track of the KYC database, as well as sharing that information with relevant authorities if needed.&#x20;
 
-### Treasurers
+### Fiscal Division
 
-The Treasurers will be responsible for creating expense reports, managing the community wallet, and sharing financial information with the Founders and the holders.&#x20;
+The `Treasurers` will be responsible for creating expense reports, managing the community wallet, and sharing financial information with the Founders and the holders.&#x20;
 
-### Community Leader
+### Community Division
 
-The Community Leaders will be responsible for managing the `DAO` and relaying information from community members to other Directors and the holders. It is our hope with establishing this `HOA`, that we can have a smaller-scale self-governing system in place for holders.&#x20;
+The `Community Leaders` will be responsible for managing the `DAO` and relaying information from community members to other Directors and the holders. It is our hope with establishing this `HOA`, that we can have a smaller-scale self-governing system in place for holders.&#x20;
 
-## Compensation
+## Leadership Compensation
 
 We envision the pay structure of the `HOA` to be simple. Each Director will be paid equally from the publicly available Community wallet. Each Director will be paid 1 SOL weekly, paid bi-weekly for completion of tasks.&#x20;
 
