@@ -10,7 +10,7 @@ Upon successful mint, we will be dedicating up to $500,000 in `Business Developm
 
 We will be distributing a portion of these grants every fiscal quarter for at least the next two years, and grant decisions are subject to a formal application and `DAO` review.&#x20;
 
-Some projects we imagine funding are a community well, solar panels, cottages, bars, restaurants, gazebos, music festivals, conferences, and conventions.&#x20;
+Some projects we imagine funding are a community well / center, solar panels, cottages, bars, restaurants, gazebos, music festivals, conferences, and conventions.&#x20;
 
 ## Submitting Proposals
 
