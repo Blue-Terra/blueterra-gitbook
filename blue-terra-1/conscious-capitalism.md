@@ -18,9 +18,9 @@ Taking a socially conscious step forward into the digital space, we will be givi
 
 ## The Blue Terra Innovative Minds Project&#x20;
 
-We have created the “The Blue Terra Innovative Minds Project” in partnership with a local school in The Bahamas. A group of high school students will create the blueprint of what they imagine their future to look like. The project will be based off of the land that is being purchased by Blue Terra and the students will have an opportunity to explore the land. After their excursion of the land, The students will begin to write their Blue Terra Innovative Minds Blueprint.&#x20;
+We have created the `The Blue Terra Innovative Minds Project` in partnership with a local school in The Bahamas. A group of high school students will create the blueprint of what they imagine their future to look like. The project will be based off of the land that is being purchased by Blue Terra and the students will have an opportunity to explore the land. After their excursion of the land, The students will begin to write their `Blue Terra Innovative Minds` Blueprint.&#x20;
 
-This blueprint will include an environmentally sustainable, bio-diverse, socially conscious and urban developed community within the parameters of Blue Terra’s land (approx. 200 acres). The students will integrate existing technology (ie. solar panels) and new creative inventions they would like to include in the island blueprint. The final Blue Terra Innovative Minds blueprint will be displayed on the Blue Terra website.&#x20;
+This blueprint will include an environmentally sustainable, bio-diverse, socially conscious and urban developed community within the parameters of Blue Terra’s land (approx. 200 acres). The students will integrate existing technology (ie. solar panels) and new creative inventions they would like to include in the island blueprint. The final `Blue Terra Innovative Minds` blueprint will be displayed on the Blue Terra website.&#x20;
 
 The NFT owners will be able to use this blueprint or refer to it when choosing to build or develop on their land. The digital verse has allowed creative thinking to take on a new league of reach. Blue Terra exhibits the ability to apply innovative thinking and have it 8 materialize into the real world to affect positive change in existing industries.&#x20;
 
