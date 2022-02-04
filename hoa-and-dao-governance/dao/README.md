@@ -12,7 +12,7 @@ The following is the `Article of Governance` for the Blue Terra `DAO`. This is t
 
 
 
-## Overview
+## DAO Overview
 
 After our mint, we will form a decentralized autonomous organization, or `DAO`, to serve as the governing body for our NFT holders and to select the initial officers of our Home Owner’s Association(`HOA`). Members of the `DAO` can colloquially be referred to as Terrans.
 
@@ -49,7 +49,7 @@ The pipeline for `Proposals` contains three stages:
 
 2\) `Voting` -  Member of the `DAO` are given a window of time to vote of items in the `Proposal`.
 
-3\) `Finalized` - After this given window of time, `DAO` the `Proposal` is finalized and the github branch containing the finalized `proposal` is merged into the main branch of the repo.&#x20;
+3\) `Finalized` - After this given window of time, `DAO` the `Proposal` is finalized and the github branch containing the finalized `Proposal` is merged into the main branch of the repo.&#x20;
 
 After the `Proposal` is merged, the gitbook will be updated and the changes to the Governance of Blue Terra changes take immediate effect.&#x20;
 
