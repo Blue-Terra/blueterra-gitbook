@@ -12,7 +12,7 @@ Traditional models of large scale transfers of realty have struggled to scale as
 
 ## Disclaimers
 
-In the Blue Terra model, land is anchored to the freehold `lease`, which is created and initially held by a Bahamian company. Therefore the tax liability falls on the holder of the `lease` and therefore the holder of the NFT.&#x20;
+In the Blue Terra model, land is anchored to the freehold `Lease`, which is created and initially held by a Bahamian company. Therefore the tax liability falls on the holder of the `lease` and therefore the holder of the NFT.&#x20;
 
 ### Transfer Tax
 
