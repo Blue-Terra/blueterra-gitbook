@@ -8,7 +8,7 @@ coverY: 378.08631211857016
 
 ## Overview
 
-Each Blue Terra NFT will be tied to approximately 1,500 - 2,000 square feet of land. The land itself itself is distributed via `perpetual lease` and is embedded within the metadata of the NFT.&#x20;
+Each Blue Terra NFT will be tied to approximately 1,500 - 2,000 square feet of land. The land itself itself is distributed via `Perpetual Lease` and is embedded within the metadata of the NFT.&#x20;
 
 ## Property Selection
 

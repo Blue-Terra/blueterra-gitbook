@@ -5,7 +5,7 @@
 ## Land as NFT (LaN)
 
 * [🏖 The Proposition](land-as-nft-lan/the-proposition.md)
-* [✨ The Framework](land-as-nft-lan/the-framework.md)
+* [✨ The Framework](land-as-nft-lan/the-model.md)
 
 ## Blue Terra
 
@@ -18,7 +18,7 @@
 
 ## Blue Terra Governance
 
-* [🏛 Homeowner's Association](blue-terra-governance/hoa.md)
+* [🏛 HOA](blue-terra-governance/hoa.md)
 * [🌊 DAO](hoa-and-dao-governance/dao/README.md)
 
 ## Blue Terra Foundation Grant Program
