@@ -12,7 +12,7 @@ The following is the `Article of Governance` for the Blue Terra `DAO`. This is t
 
 
 
-## Overview
+## DAO Overview
 
 After our mint, we will form a decentralized autonomous organization, or `DAO`, to serve as the governing body for our NFT holders and to select the initial officers of our Home Owner’s Association(`HOA`). Members of the `DAO` can colloquially be referred to as Terrans.
 
