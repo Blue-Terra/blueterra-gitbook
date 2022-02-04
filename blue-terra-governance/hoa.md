@@ -14,15 +14,13 @@ The following is the `Article of Governance` for the Blue Terra `HAO`. This is t
 
 The Blue Terra Home Owners’ Association (`HOA`) will be the group of holders that will be responsible for the maintenance, fees, and other responsibilities of the property. After mint, a portion of the funds will be allocated to the initial Board of Directors to establish the Treasury.&#x20;
 
-## Membership
+## HOA Membership
 
 To be a member of the `HOA`, holders would need to:
 
 * Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization).
 * Fill out KYC verification.
-* Be elected into the position by either one of the founders or the `DAO`.
 * Be a committed community member.
-* Have experience in community management or relevant fields.
 
 ## Leadership Structure
 
