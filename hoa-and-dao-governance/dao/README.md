@@ -45,9 +45,9 @@ Consequently, the Blue Terra `DAO` has complete control over `HOA` and proposals
 
 The pipeline for `Proposals` contains three stages:
 
-1\) `Compilation` - During this phase members of the `DAO` compile issues into a `Proposal`. This `proposal` is compiled into a github branch containing these changes.&#x20;
+1\) `Compilation` - During this phase members of the `DAO` compile items into a `Proposal`. This `proposal` is compiled into a github branch containing these changes.&#x20;
 
-2\) `Voting` -  Member of the `DAO` are given a window of time to vote of issues in the `Proposal`.
+2\) `Voting` -  Member of the `DAO` are given a window of time to vote of items in the `Proposal`.
 
 3\) `Finalized` - After this given window of time, `DAO` the `Proposal` is finalized and the github branch containing the finalized `proposal` is merged into the main branch of the repo.&#x20;
 
