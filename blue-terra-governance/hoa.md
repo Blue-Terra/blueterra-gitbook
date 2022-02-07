@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
 coverY: 0
 ---
 
-# 🏛 Homeowner's Association
+# 🏛 Home Owner's Portal
 
 ## Scope
 
@@ -21,6 +21,7 @@ To be a member of the `HOA`, holders would need to:
 * Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization).
 * Fill out KYC verification.
 * Be a committed community member.
+* Complete the HOA Membership agreement.&#x20;
 
 ## Leadership Structure
 
