@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
 coverY: 0
 ---
 
-# 🏛 HomeOwner's Portal
+# 🏛 Homeowner's Association
 
 ## Scope
 
@@ -12,7 +12,7 @@ The following is the `Article of Governance` for the Blue Terra `HOA`. This is t
 
 ## Overview
 
-The Blue Terra Home Owners’ Association (`HOA`) will be the group of holders that will be responsible for the maintenance, fees, and other responsibilities of the property. After mint, a portion of the funds will be allocated to the initial Board of Directors to establish the Treasury.&#x20;
+The Blue Terra Homeowners’ Association (`HOA`) will be the group of holders that will be responsible for the maintenance, fees, and other responsibilities of the property. After mint, a portion of the funds will be allocated to the initial Board of Directors to establish the Treasury.&#x20;
 
 ## HOA Membership
 
