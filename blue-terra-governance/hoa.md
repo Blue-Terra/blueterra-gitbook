@@ -38,7 +38,7 @@ The `HOA` structure would be similar to those found in standard community organi
 
 The `HOA` members would be a part of an incorporated company under Blue Terra. The Board of Directors would first be responsible for looking at general maintenance requirements for the entire community (e.g landscaping) and setting up a system to address these needs.&#x20;
 
-Second, the Directors would be responsible for reporting any complaints or legal issues to the relevant authorities. Third, the Directors would also oversee the way in which community finances are handled.&#x20;
+Second, the Board would be responsible for reporting any complaints or legal issues to the relevant authorities. Third, the Board would also oversee the way in which community finances are handled.&#x20;
 
 ## Leadership Responsibilities&#x20;
 
@@ -50,11 +50,11 @@ The `HOA` would also be responsible for creating monthly community updates for h
 
 ### Property Taxes
 
-Property taxes would be one of the most important jobs of the `HOA`. The Directors would be responsible for keeping a list of the holders developing properties versus those on undeveloped land. The Directors would annually be responsible for collecting the appropriate amount of property taxes from those developing on their plots. The Directors would also be responsible for paying those taxes to the Government of The Bahamas.&#x20;
+Property taxes would be one of the most important jobs of the `HOA`. The Board would be responsible for keeping a list of the holders developing properties versus those on undeveloped land. The Board would annually be responsible for collecting the appropriate amount of property taxes from those developing on their plots. The Board would also be responsible for paying those taxes to the Government of The Bahamas.&#x20;
 
 ### Documents
 
-There will be an `expense sheet`, publicly available to the `DAO`, in which the Directors would be responsible for making these payments. The `expense sheet` The Directors will be the only community members that are given access to KYC information, as they will be responsible for disputes amongst community members and also taxes.&#x20;
+There will be an `expense sheet`, publicly available to the `DAO`, in which the Board would be responsible for making these payments. The `expense sheet` The Board will be the only community members that are given access to KYC information, as they will be responsible for disputes amongst community members and also taxes.&#x20;
 
 
 
