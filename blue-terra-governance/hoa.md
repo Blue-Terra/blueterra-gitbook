@@ -4,11 +4,11 @@ cover: ../.gitbook/assets/FI2BIqXVUAEzrM- (1).jpg
 coverY: 0
 ---
 
-# 🏛 Home Owner's Portal
+# 🏛 HomeOwner's Portal
 
 ## Scope
 
-The following is the `Article of Governance` for the Blue Terra `HAO`. This is the Blue Terra `HOA` constitution. The Blue Terra `HOA` is to act in the best interest of the Blue Terra project and in the manner herein specified.&#x20;
+The following is the `Article of Governance` for the Blue Terra `HOA`. This is the Blue Terra `HOA` constitution. The Blue Terra `HOA` is to act in the best interest of the Blue Terra project and in the manner herein specified.&#x20;
 
 ## Overview
 
@@ -21,7 +21,16 @@ To be a member of the `HOA`, holders would need to:
 * Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization).
 * Fill out KYC verification.
 * Be a committed community member.
-* Complete the HOA Membership agreement.&#x20;
+
+## HOA Leadership Requirements
+
+* Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization).
+* Fill out KYC verification.
+* Be elected into the position by either one of the founders or the DAO.
+* Be a committed community member.
+* Have experience in community management or relevant fields.
+
+
 
 ## Leadership Structure
 
