@@ -33,21 +33,19 @@ The inaugural `DAO` post mint will be responsible for the initialization of the 
 
 ## On Chain Governance
 
-The Solana Blockchain is uniquely positioned to become the De facto player in on-chain DAO governance. Whereas some chains may charge significant gas fees to say create a DAO proposal, effectively inhibiting participation, the Solana makes on chain governance accessible to the masses. The ecosystem and Solana Foundation realize this at large and have been critical is building out the initial tooling. The most notable of which is The Solana [Governance Program](https://github.com/solana-labs/solana-program-library/tree/master/governance).&#x20;
+The Solana Blockchain is uniquely positioned to become the De facto player in on-chain `DAO` governance. Whereas some chains may charge significant gas fees to say create a DAO proposal, effectively inhibiting participation, the Solana makes on chain governance accessible to the masses. The ecosystem and Solana Foundation realize this at large and have been critical is building out the initial tooling. The most notable of which is The Solana [Governance Program](https://github.com/solana-labs/solana-program-library/tree/master/governance).&#x20;
 
-It is Blue Terra's opinion that this program will and is becoming the standard in Solana DAO Governance. Consequently, some time after mint, we will setup the Governance Program for the Blue Terra DAO. High level, the Solana Governance Program primary mechanism or smart contract that allows Blue Terra NFT holders to draft, submit, sign and vote on  `Proposals.`
+It is Blue Terra's opinion that this program will and is becoming the standard in Solana `DAO` Governance. Consequently, some time after mint, we will setup the Governance Program for the Blue Terra `DAO`. High level, the Solana Governance Program is the primary mechanism or smart contract allowing Blue Terra NFT holders to draft, submit, sign and vote on Proposals to make changes to the `DAO`.
 
 ![Solana Governance Program User Flow](../.gitbook/assets/governance-workflow.jpg)
 
-The `DAO` will have regular opportunities for members to submit and vote on `Proposals` for the future of the Blue Terra project. All `Proposals` are managed through the Blue Terra Solana Governance Program. All program proposals and resolutions will be documented in this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook). After a `Proposal` has been voted on and passed, changes must be recorded on the following gitbook pages:
+All `Proposals` are managed through the Blue Terra Solana Governance Program. All program proposals and resolutions must be documented in this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook). After a `Proposal` has been voted on and passed, changes must be recorded on the following Gitbook pages:
 
 &#x20;1\) `Article of Governance` for the `HOA` .
 
 2\) `Article of Governance` for the `DAO` .
 
-Consequently, the Blue Terra `DAO` has complete control over `HOA` and proposals are the mechanism by which Blue Terra `HOA` and `DAO` Governance.&#x20;
-
-The pipeline for `Proposals` contains three stages:
+Consequently, we should note that this structure, allows for the Blue Terra `DAO` to have complete control over `HOA` via Governance `Proposals.`
 
 After the `Proposal` has been executed and completed on the Blockchain, the changes to the Governance of Blue Terra changes take immediate effect (Ie: The Gitbook need not be updated for changes to take effect).&#x20;
 
