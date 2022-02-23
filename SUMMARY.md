@@ -19,7 +19,7 @@
 ## Blue Terra Governance
 
 * [🏛 Homeowner's Association](blue-terra-governance/hoa.md)
-* [🌊 Terran Cove 1.0 (DAO)](blue-terra-governance/terran-cove-1.0-dao.md)
+* [🌊 Terran Cove 1.1 (DAO)](blue-terra-governance/terran-cove-1.1-dao.md)
 
 ## Blue Terra Foundation Grant Program
 
