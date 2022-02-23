@@ -39,7 +39,7 @@ It is Blue Terra's opinion that this program will and is becoming the standard i
 
 ![Solana Governance Program User Flow](../.gitbook/assets/governance-workflow.jpg)
 
-The `DAO` will have regular opportunities for members to submit and vote on `Proposals` for the future of the Blue Terra project. All `Proposals` are managed through the Blue Terra Solana Governance Program. All program proposals and resolutions will be documented in this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook). After a Proposal has been voted on and passed, changes must be recorded on the following gitbook pages:
+The `DAO` will have regular opportunities for members to submit and vote on `Proposals` for the future of the Blue Terra project. All `Proposals` are managed through the Blue Terra Solana Governance Program. All program proposals and resolutions will be documented in this Github [repo](https://github.com/Blue-Terra/blueterra-gitbook). After a `Proposal` has been voted on and passed, changes must be recorded on the following gitbook pages:
 
 &#x20;1\) `Article of Governance` for the `HOA` .
 
@@ -49,11 +49,5 @@ Consequently, the Blue Terra `DAO` has complete control over `HOA` and proposals
 
 The pipeline for `Proposals` contains three stages:
 
-1\) `Compilation` - During this phase members of the `DAO` compile items into a `Proposal`. This `proposal` is compiled into a github branch containing these changes.&#x20;
-
-2\) `Voting` -  Member of the `DAO` are given a window of time to vote of items in the `Proposal`.
-
-3\) `Finalized` - After this given window of time, `DAO` the `Proposal` is finalized and the github branch containing the finalized `Proposal` is merged into the main branch of the repo.&#x20;
-
-After the `Proposal` is merged, the gitbook will be updated and the changes to the Governance of Blue Terra changes take immediate effect.&#x20;
+After the `Proposal` has been executed and completed on the Blockchain, the changes to the Governance of Blue Terra changes take immediate effect (Ie: The Gitbook need not be updated for changes to take effect).&#x20;
 
