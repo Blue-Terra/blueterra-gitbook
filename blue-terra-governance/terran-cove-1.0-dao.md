@@ -49,3 +49,5 @@ Consequently, we should note that this structure, allows for the Blue Terra `DAO
 
 After the `Proposal` has been executed and completed on the Blockchain, the changes to the Governance of Blue Terra changes take immediate effect (Ie: The Gitbook need not be updated for changes to take effect).&#x20;
 
+After mint, more details will be released regarding for example the SPL tokens used in the Governance Program, or the relationship between council token mints and the HOA.&#x20;
+
