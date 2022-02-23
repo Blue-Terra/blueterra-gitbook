@@ -4,11 +4,11 @@ cover: ../.gitbook/assets/FH9WfRBXMAkjYrc.jpg
 coverY: -140.60331299040976
 ---
 
-# 🌊 Terran Cove 1.0 (DAO)
+# 🌊 Terran Cove 1.1 (DAO)
 
 ## Scope
 
-The following is the `Article of Governance` for the Blue Terra `DAO`. This is the Blue Terra `DAO` constitution. The Blue Terra `DAO` is to act in the best interest of the Blue Terra project and in the manner herein specified.&#x20;
+The following is the `Article of Governance` for the Blue Terra `DAO`. This is the Blue Terra `DAO` constitution. The Blue Terra `DAO` is to act in the best interest of the Blue Terra project and in the manner herein specified. &#x20;
 
 
 
@@ -30,6 +30,8 @@ To be a member of the `DAO`, holders would need to:
 To qualify, one will simply need to hold a Blue Terra NFT in their Solana wallet. Exclusive Discord channels will be available through Grape Protocol.&#x20;
 
 The inaugural `DAO` post mint will be responsible for the initialization of the `HOA`: including the election of an Interim President and Vice President, as well a temporary Board of Directors.&#x20;
+
+On chain Governance will come sometime later after our core services and infrastructure has been built out. The folks at Solana Labs are doing some amazing work, realizing the vision on on chain DAO governance and are elated to be able to use some of their boilerplate.&#x20;
 
 ## On Chain Governance
 
