@@ -24,7 +24,7 @@ Our lead 3D artist, Matthieu, is Bahamian born and raised prop and environmental
 
 ### Jonah Waterous
 
-Another extremely talented artist that we have on the team is Jonah Waterous. Jonah is the son of the internationally acclaimed Jane Waterous, a resident artist for the Four Seasons, and he has 6 worked on some of the rarest pieces in our collection, which will be guaranteed beachfront property. Jonah is a prodigy in his own right having done exclusive works for: Ocean Club Resort, The Cove at Atlantis, and The Four Seasons, and selling to a clients such as Fat Joe and a number of other celebrities.
+Another extremely talented artist that we have on the team is Jonah Waterous. Jonah is the son of the internationally acclaimed Jane Waterous, a resident artist for the Four Seasons, and he has 6 worked on some of the rarest pieces in our collection, which will be guaranteed beachfront property. Jonah is a prodigy in his own right having done exclusive works for: Ocean Club Resort, The Cove at Atlantis, and The Four Seasons, and selling to clients such as Fat Joe and a number of other celebrities.
 
 
 
