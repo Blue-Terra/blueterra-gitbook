@@ -31,7 +31,7 @@ To qualify, one will simply need to hold a Blue Terra NFT in their Solana wallet
 
 The inaugural `DAO` post mint will be responsible for the initialization of the `HOA`: including the election of an Interim President and Vice President, as well a temporary Board of Directors.&#x20;
 
-On chain Governance will come sometime later after our core services and infrastructure has been built out. The folks at Solana Labs are doing some amazing work, realizing the vision on on chain DAO governance and are elated to be able to use some of their boilerplate.&#x20;
+On chain Governance will come sometime later after our core services and infrastructure has been built out. The folks at Solana Labs are doing some amazing work, realizing the vision on on chain DAO governance and we are elated to be able to use some of their boilerplate to govern Blue Terra.&#x20;
 
 ## On Chain Governance
 
