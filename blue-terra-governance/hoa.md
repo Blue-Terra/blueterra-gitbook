@@ -18,13 +18,13 @@ The Blue Terra Homeowners’ Association (`HOA`) will be the group of holders th
 
 To be a member of the `HOA`, holders would need to:
 
-* Be a holder of a Blue Terra NFT.
+* Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization).
 * Fill out KYC verification.
 * Be a committed community member.
 
 ## HOA Leadership Requirements
 
-* Be a holder of a Blue Terra NFT.
+* Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization).
 * Fill out KYC verification.
 * Be elected into the position by either one of the founders or the DAO.
 * Be a committed community member.

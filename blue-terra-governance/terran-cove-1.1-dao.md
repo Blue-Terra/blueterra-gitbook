@@ -22,7 +22,7 @@ We will also be dedicating a significant percentage of exchange fees from our up
 
 To be a member of the `DAO`, holders would need to:
 
-* Be a holder of a Blue Terra NFT (could not trade this NFT while a part of the organization)
+* Be a holder of a Blue Terra NFT.
 * Verify on Discord with Grape Protocol.
 
 ## Formation
@@ -31,9 +31,9 @@ To qualify, one will simply need to hold a Blue Terra NFT in their Solana wallet
 
 The inaugural `DAO` post mint will be responsible for the initialization of the `HOA`: including the election of an Interim President and Vice President, as well a temporary Board of Directors.&#x20;
 
-On chain Governance will come sometime later after our core services and infrastructure has been built out. The folks at Solana Labs are doing some amazing work, realizing the vision of on chain DAO governance and we are excited to be able to integrate some of their boilerplate into the governance of Blue Terra.&#x20;
-
 ## On Chain Governance
+
+On chain Governance will come sometime later after our core services and infrastructure has been built out. The folks at Solana Labs are doing some amazing work, realizing the vision of on chain DAO governance and we are excited to be able to integrate some of their boilerplate into the governance of Blue Terra.&#x20;
 
 The Solana Blockchain is uniquely positioned to become the De facto player in on-chain `DAO` governance. Whereas some chains may charge significant gas fees to say create a DAO proposal, effectively inhibiting participation, the Solana makes on chain governance accessible to the masses. The ecosystem and Solana Foundation realize this at large and have been critical is building out the initial tooling. The most notable of which is The Solana [Governance Program](https://github.com/solana-labs/solana-program-library/tree/master/governance).&#x20;
 
