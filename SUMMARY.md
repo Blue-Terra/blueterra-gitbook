@@ -15,7 +15,7 @@
 * [🎨 Art](blue-terra-1/art.md)
 * [✈ Travel](blue-terra-1/travel.md)
 * [🌳 Conscious Capitalism](blue-terra-1/conscious-capitalism.md)
-* [🌱 Business Development Grants](blue-terra-1/business-development-grants.md)
+* [🌱 Development Grants](blue-terra-1/development-grants.md)
 
 ## Blue Terra Governance
 
