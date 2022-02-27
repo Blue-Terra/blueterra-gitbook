@@ -63,7 +63,7 @@ Here is a sample of the response body from the `neighbour-api` requests above.&#
     "contract":
         {
             "name":"Blue Terra Leasing Agreement",
-            "uri":"https://leases.blueterra.land/0/boryoku-dragons",
+            "uri":"https://leases.blueterra.land/0/boryoku-dragonz",
             "type":"Perpetual Lease",
             "description":"A Blue Terra NFT allows its holder the right to claim the Blue Terra plot of land specified in the uri field.",
             "created":"2022-02-25 05:25:20.559414"
