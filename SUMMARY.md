@@ -29,6 +29,13 @@
 
 * [🏦 Land As NFT Marketplace](land-as-nft-marketplace/land-as-nft-marketplace.md)
 
+## Engineering
+
+* [💾 Blue Terra Token Metadata Standard](engineering/blue-terra-token-metadata-standard.md)
+* [⛓️ Onchain Contract Signatures](engineering/onchain-contract-signatures.md)
+* [🗝️ KYC, PII Retention And Security](engineering/kyc-pii-retention-and-security.md)
+* [🦾 Neighbour API](engineering/neighbour-api.md)
+
 ## Case Studies
 
 * [🇸🇬 Singapore](case-studies/singapore.md)
