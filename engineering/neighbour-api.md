@@ -40,7 +40,7 @@ curl -X POST \
 ```python
 import requests
 
-def get_contract_from_mint(mint: str):
+def get_contract(mint: str):
     response = requests.post(
         url="https://neighbour-api.blueterra.land/v1/contract",
         params={"mint": mint})
@@ -50,7 +50,7 @@ def get_contract_from_mint(mint: str):
 
 if __name__ == "__main__":
     mint = "A6ymjkFB85t51ftqGCXYjZ5cetXsZ5GE9YapdtteteJF" # FTX 1 of 1 Token
-    print(get_contract_from_mint(mint))
+    print(get_contract(mint))
 ```
 {% endtab %}
 {% endtabs %}
