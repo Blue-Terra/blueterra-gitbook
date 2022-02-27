@@ -27,8 +27,8 @@ The following is an example query for the Blue Terra Land-As-NFT contract data f
 ### Curl
 
 ```bash
-curl -X POST \
-    "https://neighbour-api.blueterra.land/v1/contract?mint=A6ymjkFB85t51ftqGCXYjZ5cetXsZ5GE9YapdtteteJF"
+curl -X GET \
+    "https://neighbour-api.blueterra.land/v1/contract?mint=GttBpkQV716enCoR2rFVcrE7zYy8zqq36naaofWkZXHm"
 ```
 {% endtab %}
 
@@ -41,7 +41,7 @@ curl -X POST \
 import requests
 
 def get_contract(mint: str):
-    response = requests.post(
+    response = requests.get(
         url="https://neighbour-api.blueterra.land/v1/contract",
         params={"mint": mint})
     if response.status_code == 200:
@@ -49,7 +49,7 @@ def get_contract(mint: str):
     raise Exception("Request Failed. Non 200 Status Code")
 
 if __name__ == "__main__":
-    mint = "A6ymjkFB85t51ftqGCXYjZ5cetXsZ5GE9YapdtteteJF" # FTX 1 of 1 Token
+    mint = "GttBpkQV716enCoR2rFVcrE7zYy8zqq36naaofWkZXHm" # Boryoku DAO Land
     print(get_contract(mint))
 ```
 {% endtab %}
@@ -63,10 +63,10 @@ Here is a sample of the response body from the `neighbour-api` requests above.&#
     "contract":
         {
             "name":"Blue Terra Leasing Agreement",
-            "uri":"https://leases.blueterra.land/0/ftx",
+            "uri":"https://leases.blueterra.land/0/boryoku-dragons",
             "type":"Perpetual Lease",
             "description":"A Blue Terra NFT allows its holder the right to claim the Blue Terra plot of land specified in the uri field.",
-            "created":"2022-02-25 05:25:20.574631"
+            "created":"2022-02-25 05:25:20.559414"
         }
 }
 ```
