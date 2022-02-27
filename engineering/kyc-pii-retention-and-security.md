@@ -61,4 +61,4 @@ During Blue Terra KYC, holder will be asked to certify that the following are `T
 
 Blue Terra will retain your `PII` and at times copies of your blockchain interactions on our servers. All of our services are hosted on a mix of Amazon Web Services and Google Cloud Platform. We will retain this information forever.&#x20;
 
-True to the spirit of decentralization, we would rather not have a `PII` api, however the regulations in our jurisdiction of operation require us to have this data on hand at anytime.&#x20;
+True to the spirit of decentralization, we would rather not have a `PII` api. However after much thought, this is the only feasible way in which we can provide the regulatory bodies your information if requested in a timely manner.&#x20;
