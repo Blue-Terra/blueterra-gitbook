@@ -18,7 +18,11 @@ In the future, the `neighbour api` will be expanded to include additional public
 * method: `POST`
 * params: `{"mint": <Blue_Terra_Mint>}`
 
-The following is an example query for the Blue Terra Land-As-NFT contract data for our FTX 1 of 1 using `curl` and `python` .
+The following is an example query for the Blue Terra Land-As-NFT contract data for our FTX 1 of 1 using `curl` and `python.`
+
+{% tabs %}
+{% tab title="curl" %}
+
 
 ### Curl
 
@@ -26,10 +30,14 @@ The following is an example query for the Blue Terra Land-As-NFT contract data f
 curl -X POST \
     "https://neighbour-api.blueterra.land/v1/contract?mint=A6ymjkFB85t51ftqGCXYjZ5cetXsZ5GE9YapdtteteJF"
 ```
+{% endtab %}
+
+{% tab title="python" %}
+
 
 ### Python
 
-```python
+```
 import requests
 
 def get_contract_from_mint(mint: str):
@@ -44,6 +52,8 @@ if __name__ == "__main__":
     mint = "A6ymjkFB85t51ftqGCXYjZ5cetXsZ5GE9YapdtteteJF" # FTX 1 of 1 Token
     print(get_contract_from_mint(mint))
 ```
+{% endtab %}
+{% endtabs %}
 
 Here is a sample of the response body from the `neighbour-api` requests above.&#x20;
 
@@ -60,4 +70,3 @@ Here is a sample of the response body from the `neighbour-api` requests above.&#
         }
 }
 ```
-
