@@ -12,6 +12,8 @@ To make it easier to query the contract metadata embedded within your NFT, we ha
 
 In the future, the `neighbour api` will be expanded to include additional public details about Blue Terra plots and extra endpoints to discover for example the token addresses of your neighbors or a given plot's distance to the ocean.
 
+The `neighbour-api` is also mapped to: `http://api.blueterra.land`
+
 ## I. `contract`
 
 * url: `https://neighbour-api.blueterra.land/v1/contract`
