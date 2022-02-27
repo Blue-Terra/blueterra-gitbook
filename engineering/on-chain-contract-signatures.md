@@ -2,7 +2,7 @@
 description: Let's Talk Transaction Signatures
 ---
 
-# ⛓️ Onchain Contract Signatures
+# 🔗 On-chain Contract Signatures
 
 Without diving into the esoterics of modern cryptography, we would like to give our holders a cursory overview of how our use of on-chain KYC and Solana transaction signatures constitute a digital signature and fulfill our regulatory requirements. We feel this is particularly pertinent given  that this project is the first of its kind.&#x20;
 
