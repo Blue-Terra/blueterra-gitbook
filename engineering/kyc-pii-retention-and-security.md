@@ -46,7 +46,7 @@ For an arbitrary Blue Terra NFT holder, we are required to verify that:
   * If you are a US Citizen or Resident
   * If you are a EU Citizen or Resident
 * The holder is above the age of 18.
-* The holder is not on the Terrorism and AML watchlists of any NATO member country.&#x20;
+* The holder is not on the Terrorism and AML watchlists for any NATO member country.&#x20;
 * The holder is not from a country sanctioned or banned by The Bahamas.
 
 ### Certifications
