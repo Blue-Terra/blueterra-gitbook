@@ -8,9 +8,9 @@ description: Proposing A New Standard For SPL Tokens With Legal Contracts
 
 The vision of scalable decentralized real estate on the blockchain has yet to fully come to fruition. Tied to this, is the lack of formal schema or data standard in which legal contracts can be recorded. As a result, the Solana ecosystem has yet to converge on a metadata standard for legal contracts. We must take it into our own hands to define and spread a sensible specification.&#x20;
 
-Blue Terra proposes a new SPL token metadata standard, coined the `Blue Terra Token Metadata Standard` by extending the Metaplex token metadata standard to include the realization of decentralized real estate. All Blue Terra NFT Metadata is written in the `Blue Terra Token Metadata Standard`. We should note that this new standard does not override any original Metaplex on-chain program data but makes additions to the JSON payload `uri` field in the on-chain metadata.
+Blue Terra proposes a new SPL token metadata standard, coined the `Blue Terra Token Metadata Standard` by extending the Metaplex token metadata standard to include the realization of decentralized real estate. All Blue Terra NFT Metadata is written in the `Blue Terra Token Metadata Standard`.&#x20;
 
-We make no claims about the viability of the `Blue Terra Token Metadata` standard for an arbitrary country or freehold structure. It is our contention though, that wherever necessary the `Blue Terra Token Metadata` standard can be expanded to facilitate the regulatory requirements in other jurisdictions.&#x20;
+We make no claims about the viability of the `Blue Terra Token Metadata` standard for an arbitrary country or freehold structure. It is our contention though, that wherever necessary the `Blue Terra Token Metadata` standard can be expanded to facilitate the regulatory requirements in other jurisdictions.   &#x20;
 
 ## Requirements
 
