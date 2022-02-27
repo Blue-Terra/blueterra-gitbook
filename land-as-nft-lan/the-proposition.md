@@ -1,5 +1,5 @@
 ---
-description: Land as NFT
+description: Prelude
 ---
 
 # 🏖 The Proposition
@@ -12,7 +12,7 @@ A `Deed Of Conveyance`  is defined by Cornell Law as “_a legal document that g
 
 A `Lease` is defined as “_A contract between two people where one person with property (the_ `Leases` _allows the other (the leasee) to have use of that property for a limited period of time, in exchange for a payment_”.&#x20;
 
-A `Perpetual Lease` is simply a `Lease` where the right to renew lies with the leasee, rather than the leasor as in a traditional lease.
+A `Perpetual Lease` is simply a `Lease` where the right to renew lies with the leasee, rather than the leasor as in a traditional lease. &#x20;
 
 ## The Proposition
 
