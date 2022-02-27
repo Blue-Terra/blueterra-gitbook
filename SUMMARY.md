@@ -15,6 +15,7 @@
 * [🎨 Art](blue-terra-1/art.md)
 * [✈ Travel](blue-terra-1/travel.md)
 * [🌳 Conscious Capitalism](blue-terra-1/conscious-capitalism.md)
+* [🌱 Business Development Grants](blue-terra-1/business-development-grants.md)
 
 ## Blue Terra Governance
 
@@ -27,14 +28,7 @@
 * [⛓️ Onchain Contract Signatures](engineering/onchain-contract-signatures.md)
 * [🗝️ KYC, PII Retention And Security](engineering/kyc-pii-retention-and-security.md)
 * [🦾 Neighbour API](engineering/neighbour-api.md)
-
-## Blue Terra Foundation Grant Program
-
-* [🌱 Blue Terra Foundation Grant Program](blue-terra-foundation-grant-program/blue-terra-foundation-grant-program.md)
-
-## Land-as-NFT Marketplace
-
-* [🏦 Land As NFT Marketplace](land-as-nft-marketplace/land-as-nft-marketplace.md)
+* [🏦 Land As NFT Marketplace](engineering/land-as-nft-marketplace.md)
 
 ## Case Studies
 
