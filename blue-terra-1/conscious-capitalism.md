@@ -8,10 +8,6 @@ coverY: 0
 
 ## Introduction
 
-Capitalism has been an integral part of infrastructural development for hundreds of years. During this time, we have witnessed global advancements that revolutionized international economies.&#x20;
-
-However, despite the benefits of global capitalism, there have been many teachable moments in how we can improve in the future.&#x20;
-
 As we embark on a new frontier of digital capitalism, it is important to take note of what we have learned and what we can improve upon from our physical world capitalist predecessors.&#x20;
 
 Taking a socially conscious step forward into the digital space, we will be giving back to the Bahamian community and collaborating with diverse young minds in how they imagine their future to look.&#x20;
