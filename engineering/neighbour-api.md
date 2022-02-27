@@ -6,7 +6,7 @@ description: Using The Blue Terra Contract Metadata in Your Apps
 
 As with all Solana NFTs, both on-chain and off-chain metadata is easily queryable. To get the `contract` data defined in the `Blue Terra Token Metadata Standard` we can simply request our off-chain metadata from Arweave.&#x20;
 
-To make it easier to query the contract metadata embedded within your NFT, we have created   the `neighbour-api`. For now, we will make public a single endpoint single http get endpoint for obtaining `Blue Terra Token Metadata Standard` data.
+To make it easier to query the contract metadata embedded within your NFT, we have created   the `neighbour-api`. The `neighbour-apineighbour-api`contains a useful set of tooThe For now, we will make public a single endpoint single http get endpoint for obtaining `Blue Terra Token Metadata Standard` data.
 
 * `v1/contract` - Gets JSON contract data.
 

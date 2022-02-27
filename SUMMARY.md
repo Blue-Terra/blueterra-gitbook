@@ -25,7 +25,7 @@
 ## Engineering
 
 * [📦 Blue Terra Token Metadata Standard](engineering/blue-terra-token-metadata-standard.md)
-* [🔗 On-chain Contract Signatures](engineering/on-chain-contract-signatures.md)
+* [🔗 On-chain Contract Signatures](engineering/onchain-contract-signatures.md)
 * [🗝️ KYC, PII Retention And Security](engineering/kyc-pii-retention-and-security.md)
 * [🦾 Neighbour API](engineering/neighbour-api.md)
 * [🏦 Land As NFT Marketplace](engineering/land-as-nft-marketplace.md)
