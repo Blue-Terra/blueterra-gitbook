@@ -2,7 +2,7 @@
 description: Proposing A New Standard For SPL Tokens With Legal Contracts
 ---
 
-# 🌟 Blue Terra Token Metadata Standard
+# 📦 Blue Terra Token Metadata Standard
 
 ## Introduction
 
@@ -10,7 +10,7 @@ The vision of scalable decentralized real estate on the blockchain has yet to fu
 
 Blue Terra proposes a new SPL token metadata standard, coined the `Blue Terra Token Metadata Standard` by extending the Metaplex token metadata standard to include the realization of decentralized real estate. All Blue Terra NFT Metadata is written in the `Blue Terra Token Metadata Standard`.&#x20;
 
-We make no claims about the viability of the `Blue Terra Token Metadata` standard for an arbitrary country or freehold structure. It is our contention though, that wherever necessary the `Blue Terra Token Metadata` standard can be expanded to facilitate the regulatory requirements in other jurisdictions.&#x20;
+We make no claims about the viability of the `Blue Terra Token Metadata` standard for an arbitrary country or freehold structure. It is our contention though, that wherever necessary the `Blue Terra Token Metadata` standard can be expanded to facilitate the regulatory requirements in other jurisdictions.  &#x20;
 
 ## Requirements
 
