@@ -2,7 +2,7 @@
 description: Proposing A New Standard For SPL Tokens With Legal Contracts
 ---
 
-# 📦 Blue Terra Token Metadata Standard
+# Blue Terra Token Metadata Standard
 
 ## Introduction
 
